@@ -32,6 +32,18 @@ Ideal para fins **educacionais**, **simulações de queries SQL** e **prática d
 
 ---
 
+## 💡 Objetivo Pessoal
+Este projeto faz parte do meu aprendizado contínuo em Análise e Desenvolvimento de Sistemas, onde estou consolidando conhecimentos em modelagem de dados, normalização e consultas SQL.
+
+## 🤝 Contribuições
+Sinta-se à vontade para abrir issues, sugerir melhorias ou apenas deixar um ⭐️ se gostar do projeto!
+
+## 📬 Contato
+Me acompanhe para mais projetos como esse:
+# LinkedIn https://www.linkedin.com/in/marlos-gomes/
+
+# © 2025 - Marlos Gomes 🚀
+
 ## 📊 Exemplo de Consulta
 
 🔍 Verificar disciplinas com pré-requisitos:
@@ -47,14 +59,4 @@ JOIN
 JOIN 
     tbl_disciplina d2 ON dp.cod_prerequisito = d2.cod_disciplina; '''
 
-## 💡 Objetivo Pessoal
-Este projeto faz parte do meu aprendizado contínuo em Análise e Desenvolvimento de Sistemas, onde estou consolidando conhecimentos em modelagem de dados, normalização e consultas SQL.
 
-## 🤝 Contribuições
-Sinta-se à vontade para abrir issues, sugerir melhorias ou apenas deixar um ⭐️ se gostar do projeto!
-
-## 📬 Contato
-Me acompanhe para mais projetos como esse:
-# LinkedIn https://www.linkedin.com/in/marlos-gomes/
-
-# © 2025 - Marlos Gomes 🚀
